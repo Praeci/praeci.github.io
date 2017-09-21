@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 author-img: Logo1.png
 author: Praeci
 about-author: covering NC State and Raleigh
+plugins:
+  - jekyll-feed
