@@ -4,3 +4,4 @@ author: Praeci
 about-author: covering NC State and Raleigh
 plugins:
   - jekyll-feed
+permalink: /:categories/:title.html
