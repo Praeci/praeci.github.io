@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Coming soon: Praeci reporting
-description: Independent, succinct student journalism covering NC State and Raleigh
+title: "Coming soon: Praeci reporting"
+description: "Praeci is bringing independent, succinct student journalism to NC State and Raleigh."
 tags: [Meta]
 ---
 Praeci is a new form of student journalism, presenting NC State and Raleigh news succinctly and beautifully on [Facebook](https://www.facebook.com/Praeci/notifications/), [Twitter](https://twitter.com/PraeciNews), our [website](praeci.com), or in your podcast feed (currently under construction).
