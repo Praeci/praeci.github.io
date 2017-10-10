@@ -1,6 +1,6 @@
 title: Praeci
 about: covering NC State and Raleigh
-logo: Logo1.png
+logo: "Web Logo.png"
 prod_url: http://praeci.com
 
 timezone: America/New_York
@@ -22,8 +22,8 @@ feed:
 
 strict_front_matter: TRUE
 
-twitter: https://twitter.com/PraeciNews
-facebook: https://www.facebook.com/Praeci/
+twitter_link: https://twitter.com/PraeciNews
+facebook_link: https://www.facebook.com/Praeci/
 
 collections:
     podcast:

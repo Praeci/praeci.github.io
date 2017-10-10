@@ -16,13 +16,13 @@ layout: default
     <section class="contact">
       <h3 class="contact-title">Contact</h3>
       <ul>
-          <li><a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-          <li><a href="https://facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-          <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+          <li><a href="{{ site.twitter_link }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+          <li><a href="{{ site.facebook_link }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+          <li class="email"><a href="mailto:{{site.author.email}}"><i class="fa fa-envelope-o"></i></a></li>
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">
-      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+      <p>{{site.author.name}} &copy; {{site.time | date: '%Y'}}</p>
     </div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
