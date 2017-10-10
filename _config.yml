@@ -1,7 +1,35 @@
+title: Praeci
+about: covering NC State and Raleigh
+logo: Logo1.png
+prod_url: http://praeci.com
+
+timezone: America/New_York
+lang: en-us
+
 theme: jekyll-theme-minimal
-author-img: Logo1.png
-author: Praeci
-about-author: covering NC State and Raleigh
+
+author:
+    name: Carter Pape
+    email: editor@praeci.com
+
 plugins:
-  - jekyll-feed
+    - jekyll-feed
 permalink: /:categories/:title.html
+
+strict_front_matter: TRUE
+
+twitter: https://twitter.com/PraeciNews
+facebook: https://www.facebook.com/Praeci/
+
+collections:
+    podcast:
+        output: false
+        title: "The Praeci Podcast"
+        description: "NC State and Raleigh news, interviews, and more. Delivered every Monday."
+        keywords:
+            - nc state
+            - ncsu
+            - raleigh
+            - technician
+            - student news
+            - student newspaper
