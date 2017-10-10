@@ -12,7 +12,7 @@
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.author.email | xml_escape }} ({{ site.author.name }})</managingEditor>
 		<webMaster>{{ site.author.email | xml_escape }} ({{ site.author.name }})</webMaster>
-		<copyright>{{ site.author.name }} &copy; {{ site.time | date: "%Y" }}</copyright>
+		<copyright>{{ site.author.name }} &#xA9; {{ site.time | date: "%Y" }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
