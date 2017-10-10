@@ -12,9 +12,13 @@ author:
     name: Carter Pape
     email: editor@praeci.com
 
+permalink: /:categories/:title.html
+
 plugins:
     - jekyll-feed
-permalink: /:categories/:title.html
+
+feed:
+  path: podcast.xml
 
 strict_front_matter: TRUE
 
@@ -33,3 +37,4 @@ collections:
             - technician
             - student news
             - student newspaper
+        album_art: /assets/img/podcast-album-art.png
