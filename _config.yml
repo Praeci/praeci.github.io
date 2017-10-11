@@ -6,8 +6,6 @@ prod_url: http://praeci.com
 timezone: America/New_York
 lang: en-us
 
-theme: jekyll-theme-minimal
-
 author:
     name: Carter Pape
     email: editor@praeci.com

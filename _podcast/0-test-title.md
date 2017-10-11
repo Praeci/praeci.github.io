@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "0: Test Title"
-date: 2015-12-23 14:37:00
-file: "https://s3.amazonaws.com/praeci-podcast/test.m4a"
+date: 2017-10-10 12:30:00
+file: "http://s3.amazonaws.com/praeci-podcast/test.m4a"
 duration: "3:20"
 length: "1582302"
 explicit: "yes"
