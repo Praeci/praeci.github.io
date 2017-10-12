@@ -14,7 +14,7 @@
 .about {
   margin: 0 0 40px;
   text-align: center;
-  .cover-author-image {
+  .cover-site-image {
     width: 100px;
     height: 100px;
     margin: 0 auto 10px;
@@ -31,30 +31,18 @@
       transform: scale3d(0.90,0.90,1);
     }
   }
-  .author-name {
-    font-family: 'PT Serif', serif;
-    margin: 0 0 10px;
+  .site-title {
+    font-family: 'ff-dagny-web-pro', sans-serif;
     position: relative;
-    padding-bottom: 15px;
-    font-size: 16px;
-    text-transform: uppercase;
+    font-size: 60px;
+    line-height: 1;
     color: $dark;
-    font-weight: 700;
-    &::after {
-      content: "";
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
-      bottom: 0;
-      display: block;
-      width: 7px;
-      height: 7px;
-      border-radius: 100%;
-      background-color: $body-color;
-    }
+    font-weight: 100;
   }
   p {
-    font-size: 16px;
+    font-family: "jaf-bernina-sans-condensed",sans-serif;
+    font-weight: 600;
+    font-size: 14px;
     margin: 0 0 10px;
   }
 }
@@ -171,7 +159,8 @@ footer {
       font-size: 30px;
       font-weight: 400;
       a {
-        font-family: 'PT Serif', serif;
+        font-family: 'jaf-bernina-sans-condensed', sans-serif;
+        font-weight: 600;
         text-decoration: none;
         color: $dark-blue;
       }
