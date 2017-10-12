@@ -29,7 +29,7 @@ The time and date of the hearing has not yet been announced.
 
 ## What will be different this time?
 
-Dunn and Mitchell are expected to allow evidence at the next preliminary hearing, but Dunn did not confirm whether he planned to remove reporters during closed session, which created a Technician headline last time around.
+Dunn and Mitchell are expected to allow evidence at the next preliminary hearing, but Dunn did not confirm whether he planned to remove reporters during closed session, which created a [Technician headline](http://www.technicianonline.com/news/article_496ee4d6-9374-11e7-98cd-cf58cf169e20.html) last time around.
 
 ## Why does it matter?
 
