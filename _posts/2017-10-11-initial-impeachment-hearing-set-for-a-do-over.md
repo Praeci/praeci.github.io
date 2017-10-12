@@ -13,7 +13,7 @@ The Government Relations and Oversight (GRO) Committee Chair Ryan Dunn released 
 
 Moravec and Dunn say they “erred on the side of caution” in the previous hearing by avoiding matters they believed were to be exclusively handled Student Conduct. After a conversation with Student Conduct Associate Director Jess White, they say they were too cautious and prevented evidence from being heard that should have been permitted.
 
-## What’s an example of this evidence?
+### What’s an example of this evidence?
 
 The sponsors of the bill to impeach Willis were not permitted to present evidence to substantiate their claim that some Student Body officers feel “unsafe” working in the Student Government suite because of its proximity to Willis’ office.
 
