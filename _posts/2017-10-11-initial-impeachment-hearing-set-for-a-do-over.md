@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Initial Treasurer impeachment hearing set for a do-over"
-date: 2017-10-11 22:35:00 +0400
+date: 2017-10-11 22:35:00 -0400
 description: "The committee conducting the impeachment proceedings of Student Body Treasurer John Taylor Willis has decided it will redo the initial hearing that took place September 5 due to improper proceedings that were affected by concerns pertaining to Student Conduct."
 tags: [Student Government]
 ---
