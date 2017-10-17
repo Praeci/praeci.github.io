@@ -16,7 +16,7 @@ plugins:
     - jekyll-feed
 
 feed:
-  path: podcast.xml
+    path: podcast.xml
 
 strict_front_matter: TRUE
 
