@@ -11,21 +11,23 @@ layout: default
       <div class="site-title">{{site.title}}</div>
       <p>{{site.about}}</p>
     </div>
-  </header> <!-- End Header -->
+  </header>
   <footer>
-    <section class="contact">
-      <h3 class="contact-title">Contact</h3>
-      <ul>
-          <li><a href="{{ site.twitter_link }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-          <li><a href="{{ site.facebook_link }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-          <li class="email"><a href="mailto:{{site.author.email}}"><i class="fa fa-envelope-o"></i></a></li>
-      </ul>
-    </section> <!-- End Section Contact -->
     <div class="copyright">
       <p>{{site.author.name}} &copy; {{site.time | date: '%Y'}}</p>
     </div>
-  </footer> <!-- End Footer -->
-</aside> <!-- End Sidebar -->
+    <section class="contact clearfix">
+      <div class="column left">
+        <a href="/contact" target="_blank">Contact</a>
+        <a href="/about" target="_blank">About</a>
+      </div>
+      <div class="column right">
+        <a href="/contribute">Contribute</a>
+        <a href="/donate">Donate</a>
+      </div>
+    </section>
+  </footer>
+</aside>
 <div class="content-box clearfix">
   {{ content }}
 </div>
