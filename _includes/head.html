@@ -1,5 +1,8 @@
 <head>
 	<meta charset="utf-8">
+    
+    {% include analytics-head.html %}
+    
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,18 +13,25 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/manifest.json">
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#3ac0b4">
+    
 	<!-- Chrome, Firefox OS and Opera -->
 	<meta name="theme-color" content="#3ac0b4">
+	
 	<!-- Windows Phone -->
 	<meta name="msapplication-navbutton-color" content="#3ac0b4">
+	
 	<!-- iOS Safari -->
 	<meta name="apple-mobile-web-app-status-bar-style" content="#3ac0b4">
+	
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+	
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
+	
     <!-- Typekit -->
 	<script src="https://use.typekit.net/erv3qfi.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    
     {% feed_meta %}
 </head>
