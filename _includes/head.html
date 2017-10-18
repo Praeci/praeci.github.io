@@ -8,7 +8,7 @@
 	        {{site.title}}
 	    {% endif %}
 	{% endcapture %}
-	{% capture title %}{{ title | strip }}{% endcapture %}
+	{% assign title = title | strip %}
     
     {% include analytics-head.html %}
     

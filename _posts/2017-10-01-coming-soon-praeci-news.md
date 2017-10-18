@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Coming soon: Praeci News"
+authors: []
 date: 2017-10-01 12:46:00 -0400
 description: "Praeci is bringing independent, succinct student journalism to NC State and Raleigh."
 img: "/assets/img/Web cover.png"

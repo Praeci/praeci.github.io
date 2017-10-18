@@ -36,3 +36,12 @@ collections:
             - student news
             - student newspaper
         album_art: /assets/img/podcast-album-art.png
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            authors: ["Carter Pape"]
+            layout: post
