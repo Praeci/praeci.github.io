@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast: Title IX in the Trump era"
+title: "The Praeci Podcast: Title IX in the Trump era"
 date: 2017-10-16 04:00:00 -0400
 description: "In the first episode of The Praeci Podcast, we spoke with Robin Kelley, NC State's deputy Title IX coordinator, about what Title IX is and how it came to protect survivors of sexual assault at American colleges and universities."
 img: "https://s3.amazonaws.com/praeci-assets/Betsy_DeVos.png"
