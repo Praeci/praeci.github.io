@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
@@ -47,11 +47,12 @@
 }
 .content-box {
     padding: 20px;
-    padding-left: 260px;
+    margin-left: 220px;
 }
 
 .contact {
-    padding: 0 30px;
+    width: 150px;
+    margin: auto;
     div.column {
         width: 50%;
         float: left;
@@ -88,7 +89,6 @@ footer {
     overflow: hidden;
     transition: all .3s ease;
     box-shadow: 0 1px 1px 0 rgba(31, 35, 46, .15);
-
     .post-thumbnail {
         width: 30%;
         max-width: 100%;
@@ -96,7 +96,6 @@ footer {
         background-size: cover;
         background-position: 50% 50%;
     }
-
     .post-content {
         padding: 1rem;
         width: 70%;
@@ -120,6 +119,9 @@ footer {
         }
         p {
             margin-top: 0;
+        }
+        &.full-width {
+            width: 100%;
         }
     }
 }

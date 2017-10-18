@@ -6,10 +6,13 @@ description: "Praeci is a new form of student journalism, presenting NC State an
 <article class="post">
   {% if post.thumb %}
     <a class="post-thumbnail" style="background-image: url('{{post.thumb}}')" href="{{post.url | prepend: site.baseurl}}"></a>
+  <div class="post-content">
   {% elsif post.img %}
     <a class="post-thumbnail" style="background-image: url('{{post.img}}')" href="{{post.url | prepend: site.baseurl}}"></a>
-  {% endif %}
   <div class="post-content">
+  {% else %}
+  <div class="post-content full-width">
+  {% endif %}
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p>{{ post.description }}</p>
     <span class="post-date">{{post.date | date: '%B %-d at %I:%M %p'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>

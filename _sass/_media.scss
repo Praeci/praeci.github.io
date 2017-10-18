@@ -48,6 +48,7 @@
 
     .content-box {
         padding: 20px 10px;
+        margin-left: 0;
     }
 
 .contact-title, .copyright {
@@ -60,6 +61,7 @@
 @media only screen and (max-width : 480px) {
     .content-box {
         padding: 10px;
+        margin-left: 0;
     }
     .post {
         width: 98%;
