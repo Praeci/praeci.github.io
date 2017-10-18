@@ -3,7 +3,9 @@ title: "Coming soon: Praeci News"
 authors: []
 date: 2017-10-01 12:46:00 -0400
 description: "Praeci is bringing independent, succinct student journalism to NC State and Raleigh."
-img: "/assets/img/Web cover.png"
+img:
+    path: "/assets/img/Web cover.png"
+    credit: "graphic by Carter Pape"
 tags: [Meta]
 ---
 Praeci is a new form of student journalism, presenting NC State and Raleigh news succinctly and beautifully on [Facebook](https://www.facebook.com/Praeci/notifications/), [Twitter](https://twitter.com/PraeciNews), our [website](http://praeci.com), or in your podcast feed (currently under construction).
