@@ -8,6 +8,7 @@
     padding: 20px 10px;
     
     .masthead {
+        color: $masthead-grey;
         margin: 0 0 40px;
         text-align: center;
     
@@ -17,7 +18,7 @@
             margin: 0 auto 10px;
             border-radius: 100%;
             overflow: hidden;
-            background-color: $dark;
+            background-color: $masthead-grey
         }
         img {
             width: 100%;
@@ -34,7 +35,6 @@
             position: relative;
             font-size: 60px;
             line-height: 1;
-            color: $dark;
             font-weight: 100;
         }
         .site-maxim {
@@ -108,7 +108,7 @@
                 font-family: 'jaf-bernina-sans-condensed', sans-serif;
                 font-weight: 600;
                 text-decoration: none;
-                color: $dark-blue;
+                color: $button-text;
             
                 &:hover {
                     color: $praeci-med;

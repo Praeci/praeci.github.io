@@ -29,12 +29,12 @@
             color: $dark-blue;
             display: inline-block;
             padding: 5px 10px;
-            border: 1px solid $gray;
-            background-color: $lightgray;
+            border: 1px solid $button-dark;
+            background-color: $button-bg;
             transition: all .3s;
             
             &:hover {
-                background-color: $gray;
+                background-color: $button-dark;
             }
         }
     }

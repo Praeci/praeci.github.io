@@ -1,12 +1,16 @@
-$body-color: #515151;
 $white: #ffffff;
-$lightgray: #fafafa;
-$gray: #ecf0f1;
-$dark-gray: #a0a0a0;
-$dark-blue: #263959;
-$dark: #333030;
-
 $clear: rgba( $white, 0 );
+
+$body-color: #515151;
+$body-grey: #909090;
+
+$divider-gray: #a0a0a0;
+
+$masthead-grey: #303030;
+
+$button-bg: #fafafa;
+$button-dark: #ecf0f1;
+$button-text: #263959;
 
 $praeci-white: #f4f2f4;
 $praeci-tinted-white: #adc0be;
@@ -14,5 +18,3 @@ $praeci-red: #cc0000;
 $praeci-light: #3ac0b4;
 $praeci-med: #0f7175;
 $praeci-dark: #13505b;
-
-$caption-color: #909090;
