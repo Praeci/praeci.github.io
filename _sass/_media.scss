@@ -10,11 +10,9 @@
 
         .post-content {
             width: 100%;
-            .post-title {
+            a.post-title {
                 margin: 0 0 5px;
-                a {
-                    font-size: 21px;
-                }
+                font-size: 21px;
             }
         }
     }

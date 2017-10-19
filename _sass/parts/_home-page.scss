@@ -106,15 +106,12 @@ footer {
         .post-title {
             margin: 0 0 10px;
             font-size: 30px;
-            font-weight: 400;
-            a {
-                font-family: 'jaf-bernina-sans-condensed', sans-serif;
-                font-weight: 600;
-                text-decoration: none;
-                color: $dark-blue;
-                &:hover {
-                    color: $praeci-med;
-                }
+            font-family: 'jaf-bernina-sans-condensed', sans-serif;
+            font-weight: 600;
+            text-decoration: none;
+            color: $dark-blue;
+            &:hover {
+                color: $praeci-med;
             }
         }
         p {
