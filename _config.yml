@@ -25,7 +25,7 @@ facebook_link: https://www.facebook.com/Praeci/
 
 collections:
     podcast:
-        output: false
+        output: true
         title: "The Praeci Podcast"
         description: "NC State and Raleigh news, interviews, and more. Delivered every Monday."
         keywords:

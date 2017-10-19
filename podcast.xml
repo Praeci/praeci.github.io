@@ -44,7 +44,7 @@
 				<description><![CDATA[{{ episode.content }}]]></description>
 				<content:encoded><![CDATA[{{ episode.content }}]]></content:encoded>
 				<guid isPermaLink="true">{{ site.prod_url }}{{ episode.url }}</guid>
-				<enclosure url="{{ episode.file }}" length="{{ episode.length }}" type="audio/mp3"/>
+				<enclosure url="{{ episode.audio_file }}" length="{{ episode.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author.name }}</itunes:author>
 				<itunes:summary><![CDATA[{{ episode.content }}]]></itunes:summary>
 				<itunes:duration>{{ episode.duration }}</itunes:duration>

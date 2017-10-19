@@ -2,8 +2,15 @@
 layout: main
 description: "Praeci is a new form of student journalism, presenting NC State and Raleigh news succinctly and beautifully on Facebook, Twitter, our website, or in your podcast feed."
 ---
-{% for post in site.posts %}
-    {% capture words %}{{ post.content | number_of_words }}{% endcapture %}
+{% assign feed = site.posts | concat: site.podcast | sort: "date" | reverse %}
+
+{% for post in feed %}
+    {% assign words=post.content | number_of_words %}
+    {% assign title=post.title %}
+    {% if post.collection == "podcast" %}
+        {% assign title=title | prepend:"The Praeci Podcast: " %}
+    {% endif %}
+    
     <article class="post">
         {% if post.thumb %}
             <a class="post-thumbnail" style="background-image: url('{{post.thumb.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
@@ -14,7 +21,7 @@ description: "Praeci is a new form of student journalism, presenting NC State an
         {% else %}
             <div class="post-content full-width">
         {% endif %}
-        <a href="{{post.url | prepend: site.baseurl}}" class="post-title"><h1>{{post.title}}</h1></a>
+        <a href="{{post.url | prepend: site.baseurl}}" class="post-title"><h1>{{title}}</h1></a>
         <p>{{ post.description }}</p>
         <span class="post-date">{{post.date | date: '%B %-d at %I:%M %p'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
         <span class="post-words">{{ words | append: " words" }}</span>

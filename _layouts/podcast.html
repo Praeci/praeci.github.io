@@ -1,24 +1,16 @@
 ---
-layout: main
+layout: post
 ---
-<article class="article-page">
-  <div class="page-content">
-    <div class="page-cover-image">
-      {% if page.img %}<img class="page-image" src="{{page.img.path}}" alt="{{page.title}}">{% endif %}
-    </div>
-    <div class="wrap-content">
-      <header class="header-page">
-        <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><span>{{page.date | date: '%B %-d at %I:%M %p'}}</span></div>
-      </header>
-      {{page.content | markdownify}}
-      <div class="page-footer">
-        <div class="page-share">
-          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-        </div>
-      </div>
-      {% include disqus.html %}
-    </div>
-  </div>
-</article>
+{{ content }}
+
+The Praeci Podcast is available on [Overcast][Overcast], [iTunes][iTunes], [Google Play][Google Play], and [RSS][RSS].
+
+<audio controls>
+    <source src="{{page.audio_file}}" type="audio/mp3">
+    Your browser does not support the audio element.
+</audio>
+
+[Overcast]: https://overcast.fm/itunes1294565233/the-praeci-podcast
+[iTunes]: https://itunes.apple.com/us/podcast/the-praeci-podcast/id1294565233?mt=2
+[Google Play]: https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ikbqf27l5tzkc3w6cqjre5gphey?t%3DThe_Praeci_Podcast%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16
+[RSS]: http://praeci.com/podcast.xml
