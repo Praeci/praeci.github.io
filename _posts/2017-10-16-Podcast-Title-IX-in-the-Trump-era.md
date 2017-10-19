@@ -4,6 +4,7 @@ date: 2017-10-16 04:00:00 -0400
 description: "In the first episode of The Praeci Podcast, we spoke with Robin Kelley, NC State's deputy Title IX coordinator, about what Title IX is and how it came to protect survivors of sexual assault at American colleges and universities."
 img:
     path: "https://s3.amazonaws.com/praeci-assets/Betsy_DeVos.png"
+    caption: "Secretary of Education Betsy DeVos has rolled back changes to Title IX made during the Obama administration."
     credit: "Photo from Wikimedia Commons; graphic by Carter Pape"
 tags: [The Praeci Podcast, Title IX]
 ---
