@@ -14,15 +14,7 @@ layout: main
         </div>
       </header>
       {% if page.img %}
-        <figure class="inline-img">
-            <img src="{{page.img.path}}" alt="{{page.title}}">
-            <figcaption>
-                {% if page.img.caption %}
-                    {{page.img.caption}}
-                {% endif %}
-                ({{page.img.credit}})
-            </figcaption>
-        </figure>
+        {% include inline-img.html img=page.img %}
       {% endif %}
       {{page.content | markdownify}}
       <div class="page-footer">
