@@ -13,7 +13,17 @@ layout: main
             <span class="article-date">{{page.date | date: '%B %-d at %I:%M %p'}}</span>
         </div>
       </header>
-      {% if page.img %}<img class="page-image" src="{{page.img.path}}" alt="{{page.title}}">{% endif %}
+      {% if page.img %}
+        <figure class="inline-img">
+            <img src="{{page.img.path}}" alt="{{page.title}}">
+            <figcaption>
+                {% if page.img.caption %}
+                    {{page.img.caption}}
+                {% endif %}
+                ({{page.img.credit}})
+            </figcaption>
+        </figure>
+      {% endif %}
       {{page.content | markdownify}}
       <div class="page-footer">
         <div class="page-share">

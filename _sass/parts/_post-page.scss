@@ -39,6 +39,13 @@ header {
         margin-top: 0;
         margin-bottom: .5em;
     }
+    figure {
+        margin: 0 0 10px 0;
+        figcaption {
+            color: $caption-color;
+            margin-top: 4px;
+        }
+    }
     h2 {
         margin-bottom: 0;
     }
