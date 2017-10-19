@@ -4,6 +4,7 @@
 
 header {
     margin: 10px 0;
+    
     .article-title {
         font-weight: 400;
         margin: 0 0 10px;
@@ -61,6 +62,7 @@ header {
     padding-top: 30px;
     margin: 30px 0    ;
     border-top: 1px solid $dark-gray;
+    
     .page-share {
         margin-bottom: 10px;
         text-align: left;
@@ -74,6 +76,7 @@ header {
             color: $dark-blue;
             font-size: 12px;
             transition: background-color .3s;
+            
             &:first-child {
                 margin-left: 0;
             }
@@ -91,6 +94,7 @@ header {
             color: $dark-blue;
             text-transform: uppercase;
             border: 1px solid $dark-blue;
+            
             &:hover {
                 text-decoration: underline;
             }

@@ -3,11 +3,11 @@
     .post {
         max-width: 100%;
         margin: 0 0.9% 1.5%;
-
+        
         .post-thumbnail {
             width: 100%;
         }
-
+        
         .post-content {
             width: 100%;
             a.post-title {
@@ -26,33 +26,30 @@
         padding: 10px;
         background-color: #ffffff;
         box-shadow: 0 1px 1px 0 rgba(31, 35, 46, .15);
-
+        
         footer {
             margin-bottom: 10px;
         }
-
     }
     .about {
         text-align: center;
         max-width: 480px;
         margin: 10px auto auto;
+        
         img {
             width: 100px;
             height: 100px;
             border-radius: 100%;
             margin-bottom: 10px;
         }
-}
-
+    }
     .content-box {
         padding: 20px 10px;
         margin-left: 0;
     }
-
-.contact-title, .copyright {
-    display: none;
-}
-
+    .contact-title, .copyright {
+        display: none;
+    }
 }
 
 /* Extra Small Devices, Phones */
@@ -72,8 +69,10 @@
 
         .post-content {
             width: 100%;
+            
             .post-title {
                 margin: 0 0 5px;
+                
                 a {
                     font-size: 21px;
                 }
