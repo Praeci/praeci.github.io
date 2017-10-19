@@ -37,4 +37,4 @@ Mitchell and Dunn say they want to make the proceedings fair to all parties invo
 
 This is the first impeachment proceeding initiated by Student Senate in 10 years.
 
-_This article was updated at 2:02 AM on Thursday, October 10._
+_This article was updated at 2:02 AM on Thursday, October 12._
