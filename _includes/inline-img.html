@@ -1,0 +1,9 @@
+<figure class="inline-img">
+    <img src="{{include.img.path}}">
+    <figcaption>
+        {% if include.img.caption %}
+            {{include.img.caption}}
+        {% endif %}
+        ({{include.img.credit}})
+    </figcaption>
+</figure>
