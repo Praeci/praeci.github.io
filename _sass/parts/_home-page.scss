@@ -11,7 +11,7 @@
     padding: 20px 10px;
     
     .masthead {
-        color: $masthead-grey;
+        color: $bold-grey;
         margin: 0 0 40px;
         text-align: center;
     
@@ -21,7 +21,7 @@
             margin: 0 auto 10px;
             border-radius: 100%;
             overflow: hidden;
-            background-color: $masthead-grey
+            background-color: $bold-grey
         }
         img {
             width: 100%;
@@ -65,7 +65,7 @@
         
                 a {
                     text-decoration: none;
-                    color: $body-color;
+                    color: $body-reg;
                     display: block;
             
                     &:hover {
@@ -106,12 +106,10 @@
                 font-size: 12px;
             }
             .post-title {
-                margin: 0 0 10px;
-                font-size: 30px;
-                font-family: 'jaf-bernina-sans-condensed', sans-serif;
-                font-weight: 600;
                 text-decoration: none;
-                color: $button-text;
+                h1 {
+                    margin: 0 0 10px;
+                }
             
                 &:hover {
                     color: $praeci-med;

@@ -9,7 +9,7 @@ html {
 body {
     font-family: "ff-dagny-web-pro",sans-serif;
     font-size: 18px;
-    color: $body-color;
+    color: $body-reg;
     background-color: $praeci-white;
     margin: 0;
     -webkit-font-smoothing: antialiased;
@@ -17,7 +17,9 @@ body {
 }
 
 h1 {
-    font-weight: 400;
+    font-family: 'jaf-bernina-sans-condensed', sans-serif;
+    font-weight: 600;
+    color: $bold-grey;
 }
 
 img {
