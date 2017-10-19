@@ -3,20 +3,21 @@ layout: main
 description: "Praeci is a new form of student journalism, presenting NC State and Raleigh news succinctly and beautifully on Facebook, Twitter, our website, or in your podcast feed."
 ---
 {% for post in site.posts %}
-<article class="post">
-  {% if post.thumb %}
-    <a class="post-thumbnail" style="background-image: url('{{post.thumb.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
-  <div class="post-content">
-  {% elsif post.img %}
-    <a class="post-thumbnail" style="background-image: url('{{post.img.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
-  <div class="post-content">
-  {% else %}
-  <div class="post-content full-width">
-  {% endif %}
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p>{{ post.description }}</p>
-    <span class="post-date">{{post.date | date: '%B %-d at %I:%M %p'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | append: " words" }}{% endunless %}</span>
-  </div>
-</article>
+    {% capture words %}{{ post.content | number_of_words }}{% endcapture %}
+    <article class="post">
+        {% if post.thumb %}
+            <a class="post-thumbnail" style="background-image: url('{{post.thumb.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
+            <div class="post-content">
+        {% elsif post.img %}
+            <a class="post-thumbnail" style="background-image: url('{{post.img.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
+            <div class="post-content">
+        {% else %}
+            <div class="post-content full-width">
+        {% endif %}
+        <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+        <p>{{ post.description }}</p>
+        <span class="post-date">{{post.date | date: '%B %-d at %I:%M %p'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+        <span class="post-words">{{ words | append: " words" }}</span>
+        </div>
+    </article>
 {% endfor %}
