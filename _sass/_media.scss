@@ -50,25 +50,19 @@
     .contact-title, .copyright {
         display: none;
     }
-}
-
-/* Extra Small Devices, Phones */
-@media only screen and (max-width : 480px) {
-    .content-box {
-        padding: 10px;
-        margin-left: 0;
-    }
     .post {
+        flex-direction: column;
+        -webkit-flex-direction: column;
         width: 98%;
         max-width: 100%;
         margin: 2%;
 
         .post-thumbnail {
-            width: 100%;
+            width: 100%  !important;
         }
 
         .post-content {
-            width: 100%;
+            width: 100% !important;
             
             .post-title {
                 margin: 0 0 5px;
@@ -78,5 +72,13 @@
                 }
             }
         }
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    .content-box {
+        padding: 10px;
+        margin-left: 0;
     }
 }
