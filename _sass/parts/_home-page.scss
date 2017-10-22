@@ -12,7 +12,6 @@
     
     .masthead {
         color: $bold-grey;
-        margin: 0 0 40px;
         text-align: center;
     
         .cover-site-image {
@@ -117,6 +116,7 @@
                 text-decoration: none;
                 h1 {
                     margin: 0 0 10px;
+                    line-height: 1.2;
                 }
             
                 &:hover {
