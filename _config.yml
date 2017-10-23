@@ -22,13 +22,15 @@ feed:
 strict_front_matter: TRUE
 
 twitter_link: https://twitter.com/PraeciNews
+twitter_handle: "PraeciNews"
 facebook_link: https://www.facebook.com/Praeci/
+donation_link: https://www.paypal.me/CarterPape
 
 collections:
     podcast:
         output: true
         title: "The Praeci Podcast"
-        description: "NC State and Raleigh news, interviews, and more. Delivered every Monday."
+        description: "NC State and Raleigh news, interviews, and more. Delivered every other Monday."
         keywords:
             - nc state
             - ncsu
