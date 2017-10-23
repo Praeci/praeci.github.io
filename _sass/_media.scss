@@ -30,6 +30,12 @@
         padding: 20px 10px;
         margin-left: 0;
     }
+    .small-only {
+        display: initial;
+    }
+    .large-only {
+        display: none;
+    }
 }
 
 /* Extra Small Devices, Phones */
