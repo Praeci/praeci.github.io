@@ -30,7 +30,7 @@ collections:
     podcast:
         output: true
         title: "The Praeci Podcast"
-        description: "NC State and Raleigh news, interviews, and more. Delivered every other Monday."
+        description: "In-depth NC State and Raleigh news, interviews, and more. Delivered every other Monday."
         keywords:
             - nc state
             - ncsu
