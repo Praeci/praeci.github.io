@@ -89,6 +89,12 @@ footer.colophon {
     padding: 20px;
     margin-left: 220px;
     
+    .page-name {
+        font-size: 3em;
+        margin-top: 0;
+        font-weight: 300;
+    }
+    
     .post {
         font-family: "rooney-web", georgia, serif;
         display: flex;

@@ -1,14 +1,24 @@
 ---
 layout: main
 description: "Praeci is a new form of student journalism, presenting NC State and Raleigh news succinctly and beautifully on Facebook, Twitter, our website, or in your podcast feed."
+permalink: "/"
 ---
 {% assign feed = site.posts | concat: site.podcast | sort: "date" | reverse %}
 
 {% for post in feed %}
-    {% assign words=post.content | number_of_words %}
     {% assign title=post.title %}
+    {% assign excerpt=post.excerpt %}
+    {% assign formatted_date=post.date | date: '%B %-d at %I:%M %p' %}
+    {% assign length=post.content | number_of_words | append: " words" %}
+    
+    {% if post.description %}
+        {% assign excerpt=post.description %}
+    {% endif %}
+    
     {% if post.collection == "podcast" %}
         {% assign title=title | prepend:"The Praeci Podcast: " %}
+        {% assign formatted_date=post.date | date: '%B %-d' %}
+        {% assign length=post.duration_string %}
     {% endif %}
     
     <article class="post">
@@ -22,9 +32,9 @@ description: "Praeci is a new form of student journalism, presenting NC State an
             <div class="post-content full-width">
         {% endif %}
         <a href="{{post.url | prepend: site.baseurl}}" class="post-title"><h1>{{title}}</h1></a>
-        <p>{{ post.description }}</p>
-        <span class="post-date">{{post.date | date: '%B %-d at %I:%M %p'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-        <span class="post-words">{{ words | append: " words" }}</span>
+        <p>{{ excerpt }}</p>
+        <span class="post-date">{{formatted_date}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+        <span class="post-words">{{ length }}</span>
         </div>
     </article>
 {% endfor %}

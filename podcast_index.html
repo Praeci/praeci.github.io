@@ -1,0 +1,30 @@
+---
+layout: main
+title: "The Praeci Podcast"
+description: "The Praeci Podcast presents deep dive stories from around NC State and Raleigh every other Monday."
+permalink: "/podcast"
+---
+<h1 class="page-name">The Praeci Podcast</h1>
+{% for episode in site.podcast %}
+    {% assign excerpt=episode.excerpt %}
+    {% if episode.description %}
+        {% assign excerpt=episode.description %}
+    {% endif %}
+    
+    <article class="post">
+        {% if episode.thumb %}
+            <a class="post-thumbnail" style="background-image: url('{{episode.thumb.path}}')" href="{{episode.url | prepend: site.baseurl}}"></a>
+            <div class="post-content">
+        {% elsif episode.img %}
+            <a class="post-thumbnail" style="background-image: url('{{episode.img.path}}')" href="{{episode.url | prepend: site.baseurl}}"></a>
+            <div class="post-content">
+        {% else %}
+            <div class="post-content full-width">
+        {% endif %}
+        <a href="{{post.url | prepend: site.baseurl}}" class="post-title"><h1>{{episode.title}}</h1></a>
+        <p>{{ excerpt }}</p>
+        <span class="post-date">{{episode.date | date: '%B %-d, %Y'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+        <span class="post-words">{{ episode.duration_string }}</span>
+        </div>
+    </article>
+{% endfor %}
