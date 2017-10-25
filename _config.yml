@@ -11,7 +11,7 @@ author:
     name: Carter Pape
     email: editor@praeci.com
 
-permalink: /:categories/:title.html
+permalink: /:categories/:title
 
 plugins:
     - jekyll-feed
