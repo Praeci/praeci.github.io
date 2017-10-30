@@ -9,18 +9,35 @@
 	    {% endif %}
 	{% endcapture %}
 	{% assign title = title | strip %}
+	
+	{% capture description %}
+	    {% if page.description %}
+	        {{ page.description }}
+	    {% else %}
+	        {{ page.excerpt }}
+	    {% endif %}
+	{% endcapture %}
+	{% assign title = description | description | strip_html %}
     
     {% include analytics-head.html %}
     
 	<title>{{title}}</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta property="og:image" content="{{page.img.path}}">
+	<meta property="og:image" content="{{ page.img.url | absolute_url }}">
+	<meta property="og:url" content="{{ page.url | absolute_url }}">
 	<meta property="og:link" content="{{ page.url | absolute_url }}">
 	<meta property="og:title" content="{{title}}">
-	<meta property="og:description" content="{{page.description}}">
+	<meta property="og:description" content="{{description}}">
 	<meta property="og:site_name" content="{{site.title}}">
-	<meta name="description" content="{{ page.description }}">
+	<meta name="description" content="{{ description }}">
+	
+	<meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@PraeciNews">
+    <meta name="twitter:creator" content="@CarterPape">
+    <meta name="twitter:title" content="{{ title }}">
+    <meta name="twitter:description" content="{{ description }}">
+    <meta name="twitter:image" content="{{ page.img.url | absolute_url }}">
 	
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
