@@ -3,7 +3,7 @@ layout: page
 title: "About Praeci"
 permalink: "/about"
 ---
-Praeci is in-depth student journalism, presenting NC State and Raleigh news beautifully in your [podcast feed]({% link podcast_index.html %}), on [Facebook]({{ site.facebook_link }}), on [Twitter]({{ site.twitter_link }}), and at our [website]({{ site.url }}).
+Praeci is in-depth student journalism, presenting NC State and Raleigh news beautifully in your [podcast feed]({% link podcast/index.html %}), on [Facebook]({{ site.facebook_link }}), on [Twitter]({{ site.twitter_link }}), and at our [website]({{ site.url }}).
 
 ## Mission
 

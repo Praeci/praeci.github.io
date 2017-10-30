@@ -1,7 +1,7 @@
 ---
 title: "Video: Fall Diversity Dialogue with Franchesca Ramsey"
 date: 2017-10-25 14:50:00 -0400
-img:
+thumb:
     path: "https://s3.amazonaws.com/praeci-assets/franchesca-ramsey.jpg"
     credit: "joeyislandboi photography / Fascinate Media"
 tags: [Diversity Education Week]
