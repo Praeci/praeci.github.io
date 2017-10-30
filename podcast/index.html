@@ -11,12 +11,7 @@ permalink: "/podcast"
     {{ pod_avail | markdownify }}
 </header>
 
-{% for episode in site.podcast %}
-    {% assign excerpt=episode.excerpt %}
-    {% if episode.description %}
-        {% assign excerpt=episode.description %}
-    {% endif %}
-    
+{% for episode in site.categories.podcast %}    
     <article class="post">
         {% if episode.thumb %}
             <a class="post-thumbnail" style="background-image: url('{{episode.thumb.path}}')" href="{{episode.url | prepend: site.baseurl}}"></a>
@@ -28,7 +23,7 @@ permalink: "/podcast"
             <div class="post-content full-width">
         {% endif %}
         <a href="{{post.url | prepend: site.baseurl}}" class="post-title"><h1>{{episode.title}}</h1></a>
-        <p>{{ excerpt }}</p>
+        <p>{{ episode.excerpt | strip_html }}</p>
         <span class="post-date">{{episode.date | date: '%B %-d, %Y'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
         <span class="post-words">{{ episode.duration_string }}</span>
         </div>
