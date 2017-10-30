@@ -18,5 +18,6 @@ keywords:
     - journalism
     - reporting
 front-page: no
+excerpt: "NYU Professor Jay Rosen on Trump's campaign to discredit the mainstream press."
 ---
 Journalism Professor at New York University Jay Rosen came to Dabney Hall on Wednesday night to give a lecture on the campaign to discredit the mainstream press. He spoke about how this campaign is being carried out, its implications, and how journalists have responded and can continue to respond.

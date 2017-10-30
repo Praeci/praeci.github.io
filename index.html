@@ -18,20 +18,5 @@ permalink: "/"
         {% assign length=post.duration_string %}
     {% endif %}
     
-    <article class="post">
-        {% if post.thumb %}
-            <a class="post-thumbnail {{post.thumb.style}}" style="background-image: url('{{post.thumb.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
-            <div class="post-content">
-        {% elsif post.img %}
-            <a class="post-thumbnail {{post.img.style}}" style="background-image: url('{{post.img.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
-            <div class="post-content">
-        {% else %}
-            <div class="post-content full-width">
-        {% endif %}
-        <a href="{{post.url | prepend: site.baseurl}}" class="post-title"><h1>{{title}}</h1></a>
-        <p>{{ post.excerpt | strip_html }}</p>
-        <span class="post-date">{{ formatted_date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-        <span class="post-words">{{ length }}</span>
-        </div>
-    </article>
+    {% include inline-post.html post=post title=title formatted_date=formatted_date length=length %}
 {% endif %}{% endfor %}
