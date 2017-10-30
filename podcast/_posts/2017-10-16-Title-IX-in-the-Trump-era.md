@@ -11,7 +11,6 @@ img:
     path: "https://s3.amazonaws.com/praeci-assets/Betsy_DeVos.png"
     caption: "Secretary of Education Betsy DeVos has rolled back changes to Title IX made during the Obama administration."
     credit: "Photo from Wikimedia Commons; graphic by Carter Pape"
-description: "In the first episode of The Praeci Podcast, we spoke with Robin Kelley, NC State's deputy Title IX coordinator, about what Title IX is and how it came to protect survivors of sexual assault at American colleges and universities."
 permalink: Podcast-Title-IX-in-the-Trump-era.html
 ---
 In the first episode of The Praeci Podcast, we spoke with Robin Kelley, NC State's deputy Title IX coordinator, about what Title IX is and how it came to protect survivors of sexual assault at American colleges and universities.

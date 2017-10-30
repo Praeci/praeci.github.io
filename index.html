@@ -3,17 +3,12 @@ layout: main
 description: "Praeci is a new form of student journalism, presenting NC State and Raleigh news succinctly and beautifully on Facebook, Twitter, our website, or in your podcast feed."
 permalink: "/"
 ---
-{% assign feed = site.posts | concat: site.podcast | sort: "date" | reverse %}
+{% assign feed = site.posts %}
 
-{% for post in feed %}
+{% for post in feed %}{% if post.front-page != false %}
     {% assign title=post.title %}
-    {% assign excerpt=post.excerpt %}
     {% assign formatted_date=post.date | date: '%B %-d at %I:%M %p' %}
     {% assign length=post.content | number_of_words | append: " words" %}
-    
-    {% if post.description %}
-        {% assign excerpt=post.description %}
-    {% endif %}
     
     {% if post.collection == "podcast" %}
         {% assign title=title | prepend:"The Praeci Podcast: " %}
@@ -23,18 +18,18 @@ permalink: "/"
     
     <article class="post">
         {% if post.thumb %}
-            <a class="post-thumbnail" style="background-image: url('{{post.thumb.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
+            <a class="post-thumbnail {{post.thumb.style}}" style="background-image: url('{{post.thumb.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
             <div class="post-content">
         {% elsif post.img %}
-            <a class="post-thumbnail" style="background-image: url('{{post.img.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
+            <a class="post-thumbnail {{post.img.style}}" style="background-image: url('{{post.img.path}}')" href="{{post.url | prepend: site.baseurl}}"></a>
             <div class="post-content">
         {% else %}
             <div class="post-content full-width">
         {% endif %}
         <a href="{{post.url | prepend: site.baseurl}}" class="post-title"><h1>{{title}}</h1></a>
-        <p>{{ excerpt }}</p>
-        <span class="post-date">{{formatted_date}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+        <p>{{ post.excerpt | strip_html }}</p>
+        <span class="post-date">{{ formatted_date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
         <span class="post-words">{{ length }}</span>
         </div>
     </article>
-{% endfor %}
+{% endif %}{% endfor %}

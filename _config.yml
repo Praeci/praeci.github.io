@@ -26,19 +26,17 @@ twitter_handle: "PraeciNews"
 facebook_link: https://www.facebook.com/Praeci/
 donation_link: https://www.paypal.me/CarterPape
 
-collections:
-    podcast:
-        output: true
-        title: "The Praeci Podcast"
-        description: "In-depth NC State and Raleigh news, interviews, and more. Delivered every other Monday."
-        keywords:
-            - nc state
-            - ncsu
-            - raleigh
-            - technician
-            - student news
-            - student newspaper
-        album_art: /assets/img/podcast-album-art.png
+podcast:
+    title: "The Praeci Podcast"
+    description: "In-depth NC State and Raleigh news, interviews, and more. Delivered every other Monday."
+    keywords:
+        - nc state
+        - ncsu
+        - raleigh
+        - technician
+        - student news
+        - student newspaper
+    album_art: /assets/img/podcast-album-art.png
 
 defaults:
     -

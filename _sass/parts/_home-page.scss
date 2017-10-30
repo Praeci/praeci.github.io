@@ -119,6 +119,10 @@ footer.colophon {
             min-height: 11rem;
             background-size: cover;
             background-position: 50% 50%;
+            
+            &.fix-left {
+                background-position: 0% 50%;
+            }
         }
         .post-content {
             padding: 1rem;

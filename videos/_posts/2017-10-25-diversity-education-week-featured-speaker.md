@@ -7,6 +7,7 @@ img:
 tags: [Diversity Education Week]
 keywords:
     - "Your Powerful Online Voice: Social Media for Social Change"
+permalink: "news/diversity-education-week-featured-speaker"
 ---
 As part of Diversity Education Week, activist and comedian Franchesca Ramsey presented this year’s Fall Diversity Dialogue Monday evening, speaking about race, privilege, microaggressions, social media activism, and more. The presentation took place in the cinema of Witherspoon Student Center.
 
