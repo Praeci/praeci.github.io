@@ -2,7 +2,7 @@
 layout: podcast
 date: 2017-10-30 8:23:00 -0400
 title: "“Trump’s campaign to discredit the mainstream press” with Jay Rosen"
-audio_file: "https://s3.amazonaws.com/praeci-podcast/002%2C+Trump+and+the+press+with+Jay+Rosen.mp3"
+audio_file: "http://dts.podtrac.com/redirect.mp3/s3.amazonaws.com/praeci-podcast/002%2C+Trump+and+the+press+with+Jay+Rosen.mp3"
 duration: "1:19:00"
 duration_string: "1 hour, 19 minutes"
 length: "113786804"

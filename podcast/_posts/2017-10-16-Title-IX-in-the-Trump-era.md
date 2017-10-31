@@ -2,7 +2,7 @@
 layout: podcast
 title: "Title IX in the Trump era"
 date: 2017-10-16 04:00:00 -0400
-audio_file: "http://s3.amazonaws.com/praeci-podcast/001%2C+Title+IX.mp3"
+audio_file: "http://dts.podtrac.com/redirect.mp3/s3.amazonaws.com/praeci-podcast/001%2C+Title+IX.mp3"
 duration: "36:42"
 duration_string: "37 minutes"
 length: "52804124"
