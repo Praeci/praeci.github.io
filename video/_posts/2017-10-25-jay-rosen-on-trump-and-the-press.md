@@ -10,6 +10,7 @@ keywords:
     - journalism
     - reporting
 front-page: no
+duration_string: "1 hour, 24 minutes"
 ---
 
 {% include video-container.html url="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPraeci%2Fvideos%2F244992779363158%2F" ratio="56.25%" %}

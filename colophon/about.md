@@ -15,4 +15,8 @@ Praeci also reports on the top news stories from around NC State and Raleigh. Th
 
 [Carter Pape](http://carterpape.com/) created Praeci and is the editor and producer of it. He is the former news editor of [Technician](http://technicianonline.com/), NC State's student newspaper. In his tenure at Technician, he led the news section of Volume 98, published multiple story series, and founded the first Technician podcast, [Dialogue with Technician][dialogue-itunes].
 
+## The name
+
+Praeci is a distortion of the French word [précis](https://en.wiktionary.org/wiki/précis), which is "A summary or brief: a concise or abridged statement or view." Praeci focuses on concise presentation and writing informed by deep understanding of the stories and topics.
+
 [dialogue-itunes]: https://itunes.apple.com/us/podcast/dialogue-with-technician/id1275744725?mt=2

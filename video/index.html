@@ -1,0 +1,17 @@
+---
+layout: main
+title: "The Praeci Podcast"
+description: "The Praeci Podcast presents deep dive stories from around NC State and Raleigh every other Monday."
+permalink: "/video/"
+---
+<header class="page-header">
+    <h1 class="page-name">The Praeci Podcast</h1>
+
+    {% capture pod_avail %}{% include podcast-availability.md %}{% endcapture %}
+    {{ pod_avail | markdownify }}
+</header>
+
+{% for episode in site.categories.video %}
+    {% assign formatted_date = episode.date | date: '%B %-d, %Y' %}
+    {% include inline-post.html post=episode title=episode.title formatted_date=formatted_date length=episode.duration_string %}
+{% endfor %}

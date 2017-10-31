@@ -1,5 +1,5 @@
 ---
-title: "Video: Fall Diversity Dialogue with Franchesca Ramsey"
+title: "Fall Diversity Dialogue with Franchesca Ramsey"
 date: 2017-10-25 14:50:00 -0400
 thumb:
     path: "https://s3.amazonaws.com/praeci-assets/franchesca-ramsey.jpg"
@@ -8,6 +8,7 @@ tags: [Diversity Education Week]
 keywords:
     - "Your Powerful Online Voice: Social Media for Social Change"
 permalink: "news/diversity-education-week-featured-speaker"
+duration_string: "1 hour, 15 minutes"
 ---
 As part of Diversity Education Week, activist and comedian Franchesca Ramsey presented this year’s Fall Diversity Dialogue Monday evening, speaking about race, privilege, microaggressions, social media activism, and more. The presentation took place in the cinema of Witherspoon Student Center.
 
