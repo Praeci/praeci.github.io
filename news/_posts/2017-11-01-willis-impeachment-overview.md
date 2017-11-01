@@ -2,6 +2,9 @@
 title: "Timeline of the Willis impeachment process"
 date: 2017-11-01 16:13:00 -0400
 tags: [Student Government, Willis impeachment]
+img:
+    path: "https://s3.amazonaws.com/praeci-assets/willis.jpg"
+    credit: "Eili Siler / Technician"
 ---
 John Taylor Willis resigned Wednesday as Student Body Treasurer after a months-long impeachment process that only resulted in one hearing. Here is an overview of what happened, from the beginning.
 
