@@ -10,7 +10,7 @@ The Government Relations and Oversight (GRO) Committee Chair Ryan Dunn released 
 
 ## What went wrong?
 
-Moravec and Dunn say they “erred on the side of caution” in the previous hearing by avoiding matters they believed were to be exclusively handled Student Conduct. After a conversation with Student Conduct Associate Director Jess White, they say they were too cautious and prevented evidence from being heard that should have been permitted.
+Moravec and Dunn said they “erred on the side of caution” in the previous hearing by avoiding matters they believed were to be exclusively handled Student Conduct. After a conversation with Student Conduct Associate Director Jess White, they said they were too cautious and prevented evidence from being heard that should have been permitted.
 
 ### What’s an example of this evidence?
 
@@ -32,7 +32,7 @@ Dunn and Mitchell are expected to allow evidence at the next preliminary hearing
 
 ## Why does it matter?
 
-Mitchell and Dunn say they want to make the proceedings fair to all parties involved. After getting more information about how to handle matters that may be Student Conduct-related, the committee decided redoing the hearing would be most fair approach.
+Mitchell and Dunn said they want to make the proceedings fair to all parties involved. After getting more information about how to handle matters that may be Student Conduct-related, the committee decided redoing the hearing would be most fair approach.
 
 This is the first impeachment proceeding initiated by Student Senate in 10 years.
 
