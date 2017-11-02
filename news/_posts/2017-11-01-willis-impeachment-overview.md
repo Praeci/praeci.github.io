@@ -10,7 +10,7 @@ John Taylor Willis resigned Wednesday as Student Body Treasurer after a months-l
 
 ## 2017-2018 election
 
-Willis was elected the 2017-2018 Student Body Treasurer during Student Government elections for the 2017-2018 term. Results were announced on Feb. 28. Willis got *56 percent* of the vote; his sole opposition, *Priya Loganathar*, received the other 44 percent. Willis was sworn in a month later on March 29.
+Willis was elected the 2017-2018 Student Body Treasurer during Student Government elections for the 2017-2018 term. Results were announced on Feb. 28. Willis got 56 percent of the vote; his sole opposition, Priya Loganathar, received the other 44 percent. Willis was sworn in a month later on March 29.
 
 ## Willis' summer duties
 
