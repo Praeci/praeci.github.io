@@ -123,6 +123,9 @@ footer.colophon {
             &.fix-left {
                 background-position: 0% 50%;
             }
+            &.fix-right {
+                background-position: 100% 50%;
+            }
         }
         .post-content {
             padding: 1rem;
