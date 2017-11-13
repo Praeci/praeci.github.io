@@ -5,7 +5,7 @@ title: "Students first"
 audio_file: "http://dts.podtrac.com/redirect.mp3/s3.amazonaws.com/praeci-podcast/003%2C+The+history+of+DASA.mp3"
 duration: "1:13:41"
 duration_string: "74 minutes"
-length: "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+length: "106089429"
 explicit: "no"
 thumb:
     path: "https://s3.amazonaws.com/praeci-assets/DASA-thumb.png"
