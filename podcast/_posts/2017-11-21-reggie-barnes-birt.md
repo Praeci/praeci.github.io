@@ -11,7 +11,7 @@ thumb:
     path: "https://s3.amazonaws.com/praeci-assets/BIRT-thumb.png"
 img:
     path: "https://s3.amazonaws.com/praeci-assets/BIRT-podcast.png"
-    credit: "photos via Nubian Message, CNN, Kaydee Gawlick from Technician, Kai Anthony from Technician, NCSU Libraries archive, Win McNamee via Getty Images, mediadrumworld.com, Evelyn Hockstein via Getty Images / graphic by Carter Pape"
+    credit: "photos via Nubian Message, CNN, KayDee Gawlik from Technician, Kai Anthony from Technician, NCSU Libraries archive, Win McNamee via Getty Images, mediadrumworld.com, Evelyn Hockstein via Getty Images / graphic by Carter Pape"
 tags: [BIRT]
 keywords:
     - BIRT
