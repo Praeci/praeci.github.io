@@ -3,7 +3,9 @@ layout: page
 title: "About Praeci"
 permalink: "/about"
 ---
-Praeci is in-depth student journalism, presenting NC State and Raleigh news beautifully in your [podcast feed]({% link podcast/index.html %}), on [Facebook]({{ site.facebook_link }}), on [Twitter]({{ site.twitter_link }}), and at our [website]({{ site.url }}).
+Praeci is in-depth student journalism, presenting NC State and Raleigh news beautifully in your [podcast feed]({% link podcast/index.html %}), on [Facebook]({{ site.facebook_link }}), on [Twitter]({{ site.twitter_link }}), and at our [website]({{ site.url }}). It is the senior Honors capstone project of [Carter Pape](http://carterpape.com/). The podcast is created in collaboration with and syndicated by [88.1 WKNC][WKNC].
+
+[WKNC]: https://www.wknc.org/index.php
 
 ## Mission
 
@@ -13,10 +15,10 @@ Praeci also reports on the top news stories from around NC State and Raleigh. Th
 
 ## Staff
 
-[Carter Pape](http://carterpape.com/) created Praeci and is the editor and producer of it. He is the former news editor of [Technician](http://technicianonline.com/), NC State's student newspaper. In his tenure at Technician, he led the news section of Volume 98, published multiple story series, and founded the first Technician podcast, [Dialogue with Technician][dialogue-itunes].
+Carter Pape created Praeci and is the editor and producer of it. He is the former news editor of [Technician](http://technicianonline.com/), NC State's student newspaper. In his tenure at Technician, he led the news section of Volume 98, published multiple story series, and founded the first Technician podcast, [Dialogue with Technician][dialogue-itunes].
+
+[dialogue-itunes]: https://itunes.apple.com/us/podcast/dialogue-with-technician/id1275744725?mt=2
 
 ## The name
 
 Praeci is a distortion of the French word [précis](https://en.wiktionary.org/wiki/précis), which is "A summary or brief: a concise or abridged statement or view." Praeci focuses on concise presentation and writing informed by deep understanding of the stories and topics.
-
-[dialogue-itunes]: https://itunes.apple.com/us/podcast/dialogue-with-technician/id1275744725?mt=2
