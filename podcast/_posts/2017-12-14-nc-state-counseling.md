@@ -7,7 +7,6 @@ duration: "45:04"
 duration_string: "45 minutes"
 length: "64837081"
 explicit: "no"
-thumb:
 img:
     path: "https://s3.amazonaws.com/praeci-assets/counseling-graphic.png"
     style: fix-left

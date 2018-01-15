@@ -1,13 +1,12 @@
 ---
 layout: podcast
 date: 2018-01-15 15:36:00 -0400
-title: "Counseling at NC State"
+title: "President of Meredith College, Jo Allen"
 audio_file: "http://dts.podtrac.com/redirect.mp3/s3.amazonaws.com/praeci-podcast/006%2C+President+of+Meredith+College.mp3"
 duration: "57:55"
 duration_string: "58 minutes"
 length: "83290517"
 explicit: "no"
-thumb:
 img:
     path: "https://s3.amazonaws.com/praeci-assets/Jo-Allen-podcast.png"
     style: fix-left
