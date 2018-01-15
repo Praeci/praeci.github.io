@@ -10,6 +10,7 @@ explicit: "no"
 thumb:
 img:
     path: "https://s3.amazonaws.com/praeci-assets/counseling-graphic.png"
+    style: fix-left
 tags: [counseling]
 keywords:
     - NCSU
