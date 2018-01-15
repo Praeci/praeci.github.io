@@ -1,6 +1,6 @@
 ---
 layout: podcast
-date: 2017-12-14 15:36:00 -0400
+date: 2018-01-15 15:36:00 -0400
 title: "Counseling at NC State"
 audio_file: "http://dts.podtrac.com/redirect.mp3/s3.amazonaws.com/praeci-podcast/006%2C+President+of+Meredith+College.mp3"
 duration: "57:55"
