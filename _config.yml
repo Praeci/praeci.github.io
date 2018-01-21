@@ -37,6 +37,25 @@ podcast:
         - student news
         - student newspaper
     album_art: /assets/img/podcast-album-art.png
+    
+protected-class:
+    title: "Protected Class"
+    description: "A deep dive into the quirks, challenges, and privileges of being who you are. Delivered Wednesdays and Saturdays."
+    keywords:
+        - identity
+        - culture
+        - individuality
+        - race
+        - disability
+        - gender
+        - sexuality
+        - nc state
+        - ncsu
+        - raleigh
+        - technician
+        - student news
+        - student newspaper
+    album_art: /assets/img/protected-class-album-art.png
 
 defaults:
     -
