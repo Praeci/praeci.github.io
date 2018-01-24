@@ -14,6 +14,8 @@ permalink: "/"
     
     {% if post.categories contains "podcast" %}
         {% assign title=title | prepend: "The Praeci Podcast: " %}
+    {% elsif post.categories contains  "protected-class" %}
+        {% assign title=title | prepend: "Protected Class: " %}
     {% elsif post.categories contains  "video" %}
         {% assign title=title | prepend: "Video: " %}
     {% elsif post.categories contains "news" %}

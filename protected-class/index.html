@@ -5,13 +5,13 @@ description: "A deep dive into the quirks, challenges, and privileges of being w
 permalink: "/protected-class/"
 ---
 <header class="page-header">
-    <h1 class="page-name">The Praeci Podcast</h1>
+    <h1 class="page-name">Protected Class</h1>
 
-    {% capture pod_avail %}{% include podcast-availability.md %}{% endcapture %}
+    {% capture pod_avail %}{% include protected-class-availability.md %}{% endcapture %}
     {{ pod_avail | markdownify }}
 </header>
 
-{% for episode in site.categories.podcast %}
+{% for episode in site.categories.protected-class %}
     {% assign formatted_date = episode.date | date: '%B %-d, %Y' %}
     {% include inline-post.html post=episode title=episode.title formatted_date=formatted_date length=episode.duration_string %}
 {% endfor %}
