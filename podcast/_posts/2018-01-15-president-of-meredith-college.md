@@ -7,9 +7,11 @@ duration: "57:55"
 duration_string: "58 minutes"
 length: "83290517"
 explicit: "no"
+thumb:
+    path: "https://s3.amazonaws.com/praeci-assets/jo-allen-thumb.png"
+    style: fix-right
 img:
     path: "https://s3.amazonaws.com/praeci-assets/Jo-Allen-podcast.png"
-    style: fix-left
 tags: [Meredith College]
 keywords:
     - NCSU

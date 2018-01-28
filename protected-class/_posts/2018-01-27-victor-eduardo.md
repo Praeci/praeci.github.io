@@ -6,9 +6,10 @@ duration: "49:12"
 duration_string: "49 minutes"
 length: "70861653"
 explicit: "no"
+thumb:
+    path: "https://s3.amazonaws.com/praeci-assets/victor-eduardo-thumb.png"
 img:
     path: "https://s3.amazonaws.com/praeci-assets/victor-eduardo-promo.png"
-    style: fix-left
 tags: [Victor Eduardo]
 keywords:
     - NCSU

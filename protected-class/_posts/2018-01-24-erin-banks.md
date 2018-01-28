@@ -6,9 +6,10 @@ duration: "48:05"
 duration_string: "48 minutes"
 length: "69190144"
 explicit: "no"
+thumb:
+    path: "https://s3.amazonaws.com/praeci-assets/erin-banks-thumb.png"
 img:
     path: "https://s3.amazonaws.com/praeci-assets/erin-banks-promo.png"
-    style: fix-left
 tags: [Erin Banks]
 keywords:
     - NCSU

@@ -7,9 +7,11 @@ duration: "45:04"
 duration_string: "45 minutes"
 length: "64837081"
 explicit: "no"
+thumb:
+    path: "https://s3.amazonaws.com/praeci-assets/counseling-thumb.png"
+    style: fix-right
 img:
-    path: "https://s3.amazonaws.com/praeci-assets/counseling-graphic.png"
-    style: fix-left
+    path: "https://s3.amazonaws.com/praeci-assets/counseling-promo.png"
 tags: [counseling]
 keywords:
     - NCSU

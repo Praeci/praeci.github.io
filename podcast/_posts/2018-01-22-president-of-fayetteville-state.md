@@ -6,9 +6,11 @@ duration: "38:25"
 duration_string: "38 minutes"
 length: "55293957"
 explicit: "no"
+thumb:
+    path: "https://s3.amazonaws.com/praeci-assets/james-anderson-thumb.png"
+    style: fix-right
 img:
     path: "https://s3.amazonaws.com/praeci-assets/james-anderson-promo.png"
-    style: fix-left
 tags: [Fayetteville State University]
 keywords:
     - NCSU
