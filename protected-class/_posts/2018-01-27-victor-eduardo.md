@@ -8,7 +8,7 @@ length: "70861653"
 explicit: "no"
 img:
     path: "https://s3.amazonaws.com/praeci-assets/victor-eduardo-promo.png"
-    style: fix-right
+    style: fix-left
 tags: [Victor Eduardo]
 keywords:
     - NCSU
