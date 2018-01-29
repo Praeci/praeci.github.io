@@ -10,6 +10,7 @@ thumb:
     path: "https://s3.amazonaws.com/praeci-assets/erin-banks-thumb.png"
 img:
     path: "https://s3.amazonaws.com/praeci-assets/erin-banks-promo.png"
+    credit: "Photo via Erin Banks"
 tags: [Erin Banks]
 keywords:
     - NCSU

@@ -11,6 +11,7 @@ thumb:
     style: fix-right
 img:
     path: "https://s3.amazonaws.com/praeci-assets/james-anderson-promo.png"
+    credit: "Photo via Fayetteville State University"
 tags: [Fayetteville State University]
 keywords:
     - NCSU

@@ -10,6 +10,7 @@ thumb:
     path: "https://s3.amazonaws.com/praeci-assets/victor-eduardo-thumb.png"
 img:
     path: "https://s3.amazonaws.com/praeci-assets/victor-eduardo-promo.png"
+    credit: "Photo via Victor Eduardo"
 tags: [Victor Eduardo]
 keywords:
     - NCSU

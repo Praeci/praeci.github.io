@@ -12,6 +12,7 @@ thumb:
     style: fix-right
 img:
     path: "https://s3.amazonaws.com/praeci-assets/Jo-Allen-podcast.png"
+    credit: "Photo via Meredith College"
 tags: [Meredith College]
 keywords:
     - NCSU
