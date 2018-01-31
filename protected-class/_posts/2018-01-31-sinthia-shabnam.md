@@ -28,4 +28,4 @@ title: "Sinthia Shabnam"
 excerpt: "The Vice President of NC State's Muslim Student Association on fighting stereotypes, talking about religion, and what Muslims can do to respond to anti-Muslim sentiments"
 ---
 
-Sinthia Shabnam speaks in different venues around campus with messages of unity, and acts as a humanizing face of Islam. But, she wants you to know: she is not a representative for all of Islam, and she doesn't fit the stereotypes put onto her. Hear what she has to say about anti-Islam sentiments, her one-year experience living in a community where she couldn't find her place, and why her mother was angry to see her interviewed on TV.
+Sinthia Shabnam speaks in different venues around campus with messages of unity, and acts as a humanizing face of Islam. But, she wants you to know: she is not a representative for all of Islam, and she doesn't fit the stereotypes put onto her. Hear what she has to say about anti-Islam sentiments, her one-year experience living in a community where she couldn't find her place, and why her mother was scared to see her interviewed on TV.
