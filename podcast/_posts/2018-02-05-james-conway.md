@@ -1,6 +1,6 @@
 ---
 layout: podcast
-date: 2018-02-04 08:22:00 -0400
+date: 2018-02-05 08:22:00 -0400
 audio_file: "http://dts.podtrac.com/redirect.mp3/s3.amazonaws.com/praeci-podcast/009%2C+Thomas+Conway.mp3"
 duration: "30:47"
 duration_string: "31 minutes"
