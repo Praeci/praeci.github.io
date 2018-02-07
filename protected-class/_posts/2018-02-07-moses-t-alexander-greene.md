@@ -2,9 +2,9 @@
 layout: protected-class
 date: 2018-02-06 08:35:00 -0400
 audio_file: "http://dts.podtrac.com/redirect.mp3/s3.amazonaws.com/protected-class/005%2C+Moses+T+Alexander+Greene.mp3"
-duration: "48:30"
+duration: "48:43"
 duration_string: "49 minutes"
-length: "69856975"
+length: "70184690"
 explicit: "no"
 thumb:
     path: "https://s3.amazonaws.com/praeci-assets/moses-greene-thumb.png"
