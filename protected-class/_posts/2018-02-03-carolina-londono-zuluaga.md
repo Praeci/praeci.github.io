@@ -11,7 +11,7 @@ thumb:
 img:
     path: "https://s3.amazonaws.com/praeci-assets/carolina-londono-zuluaga-promo.png"
     credit: "Photo via Carolina Londoño Zuluaga"
-tags: [Sinthia Shabnam]
+tags: [Carolina Londoño Zuluaga]
 keywords:
     - NCSU
     - NC State
