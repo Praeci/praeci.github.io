@@ -22,7 +22,16 @@ keywords:
     - metoo
     - me too
     - lisa labarbera mascote
-    - 
+    - title ix
+    - sexual assault
+    - sexual harrassment
+    - roy moore
+    - al franken
+    - womens center
+    - womens and gender studies
+    - sexism
+    - interpersonal violence
+    - class privilege
 title: "Lisa LaBarbera-Mascote"
 excerpt: "Why don't women report sexual assaults? How meaningful is womanhood to identity? Is the #MeToo movement relevant to NC State?"
 ---
