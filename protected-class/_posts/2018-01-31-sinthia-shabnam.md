@@ -1,6 +1,6 @@
 ---
 layout: protected-class
-date: 2018-01-31 00:35:00 -0400
+date: 2018-01-31 00:35:00 -0500
 audio_file: "http://dts.podtrac.com/redirect.mp3/s3.amazonaws.com/protected-class/003%2C+Sinthia+Shabnam.mp3"
 duration: "47:59"
 duration_string: "48 minutes"
