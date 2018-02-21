@@ -1,5 +1,7 @@
 ---
 title: "Breakdown of the candidates: 2018 Student Body President"
+social-image:
+    path: https://s3.amazonaws.com/praeci-assets/jess-and-meredith.png
 thumb:
     path: https://s3.amazonaws.com/praeci-assets/jess-and-meredith.png
 jess-and-meredith:
