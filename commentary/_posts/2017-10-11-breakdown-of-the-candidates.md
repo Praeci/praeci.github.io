@@ -41,7 +41,7 @@ However, a perusal of Quiroga’s and Lewis’ platform reveals a lack of nuance
 
 ## Taylor and Cat
 
-Taylor Pulliam comes into this race on a rule exception and is as much of an outsider as this race has ever seen. He is the president of Grains of Time, and neither he or his running mate Cat Duble have any experience in Student Government.
+Taylor Pulliam comes into this race on an appeal to the SG Board of Elections and is as much of an outsider as this race has ever seen. He is the president of Grains of Time, and neither he or his running mate Cat Duble have any experience in Student Government.
 
 Although Pulliam and Duble can put together a platform, organize a campaign, and even speak passionately to the issues on which they’re running, they simply do not have the experience or knowledge to be effective in the roles for which they are running. They will be successful in their final years at NC State (they are both third-year students), but they will struggle monumentally if faced with the task of representing the student body from the executive branch.
 
