@@ -38,7 +38,7 @@ Alberto Quiroga is running for SBP again this year after a campaign that fell fl
 
 Zach Lewis is his running mate and a third year with experience in Student Government and Interfraternity Council. Lewis’ connections in Fraternity and Sorority Life may prove integral to success as such connections have in years past for other candidates.
 
-However, a perusal of Quiroga’s and Lewis’ platform reveals a lack of nuance and pragmatism that would be required of them to effect change from SG’s executive branch. As Spence Beaulieu pointed out during Tuesday night’s debate, Quiroga’s proposal to extend childcare services to graduate students is fraught with pitfalls. Their platform is indicates an oversight of the complicated nature underlying the problems they hope to solve.
+However, a perusal of Quiroga’s and Lewis’ platform reveals a lack of nuance and pragmatism that would be required of them to effect change from SG’s executive branch. As Spence Beaulieu pointed out during Tuesday night’s debate, Quiroga’s proposal to extend childcare services to graduate students is fraught with pitfalls. Their platform indicates an oversight of the complicated nature underlying the problems they hope to solve.
 
 ## Taylor and Cat
 
