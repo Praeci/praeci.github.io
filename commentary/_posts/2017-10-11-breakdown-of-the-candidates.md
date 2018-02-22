@@ -7,19 +7,19 @@ thumb:
 jess-and-meredith:
     path: https://s3.amazonaws.com/praeci-assets/jess-and-meredith.png
     credit: "Photo used with permission of Jess + Meredith 2018"
-    max-width: "600px"
+    max-height: "300px"
 alberto-and-zach:
     path: https://s3.amazonaws.com/praeci-assets/alberto-and-zach.png
     credit: "Photo used with permission of Vote Alberto & Zach"
-    max-width: "400px"
+    max-height: "350px"
 mia-and-gabby:
     path: https://s3.amazonaws.com/praeci-assets/mia-and-gabby.jpg
     credit: "Photo used with permission of Mia & Gabby 2018"
-    max-width: "600px"
+    max-height: "300px"
 taylor-and-cat:
     path: https://s3.amazonaws.com/praeci-assets/taylor-and-cat.jpg
     credit: "Photo used with permission of Taylor and Cat for NCSU Student Body President and VP"
-    max-width: "600px"
+    max-height: "300px"
     # {% include inline-img.html img=page.taylor-and-cat %}
 excerpt: "Balanced and well-researched commentary on the 2018 NC State Student Body President campaigns"
 date: 2018-02-21 17:29:00 -0500

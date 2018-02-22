@@ -1,5 +1,5 @@
 <figure class="inline-img">
-    <img src="{{include.img.path}}" {% if include.img.max-width %} style="max-width: {{include.img.max-width}}"{% endif %}>
+    <img src="{{include.img.path}}" {% if include.img.max-height %} style="max-height: {{include.img.max-height}}"{% endif %}>
     {% if include.img.caption or include.img.credit %}
     <figcaption>
         {% if include.img.caption %}
