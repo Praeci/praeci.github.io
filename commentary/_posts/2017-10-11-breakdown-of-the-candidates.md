@@ -11,7 +11,7 @@ jess-and-meredith:
 alberto-and-zach:
     path: https://s3.amazonaws.com/praeci-assets/alberto-and-zach.png
     credit: "Photo used with permission of Vote Alberto & Zach"
-    max-width: "600px"
+    max-width: "400px"
 mia-and-gabby:
     path: https://s3.amazonaws.com/praeci-assets/mia-and-gabby.jpg
     credit: "Photo used with permission of Mia & Gabby 2018"
