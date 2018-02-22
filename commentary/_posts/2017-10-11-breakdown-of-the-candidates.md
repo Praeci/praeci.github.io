@@ -21,9 +21,25 @@ taylor-and-cat:
     credit: "Photo used with permission of Taylor and Cat for NCSU Student Body President and VP"
     max-height: "300px"
     # {% include inline-img.html img=page.taylor-and-cat %}
-excerpt: "Balanced and well-researched commentary on the 2018 NC State Student Body President campaigns"
+excerpt: "Balanced and thoroughly researched commentary on the 2018 NC State Student Body President campaigns"
 date: 2018-02-21 17:29:00 -0500
 tags: [Student Government]
+keywords:
+    - NC State Student Government
+    - 2018 student government elections
+    - student body president
+    - sbp
+    - sbvp
+    - student media
+    - endorsement
+    - Jess Errico
+    - Mia Connell
+    - Meredith Spence Beaulieu
+    - Alberto Quiroga
+    - Taylor Pulliam
+    - NC State
+    - 2018 election
+    - Jess Hansen
 ---
 
 The effort that goes into preparing for a role like Student Body President (SBP) is vital to what makes a student the best for the job. For this reason, Jess Errico and Mia Connell are the leaders NC State students need. However, paired with her running mate Meredith Spence Beaulieu, the Jess + Meredith team make for a duo that is outstandingly well prepared to advocate on behalf of the student body.
@@ -72,7 +88,7 @@ But if experience is so important, you might say Connell is the best candidate f
 
 However, the reality of the Student Body President is that it is a role firmly enabled and aided by the occupant of its right hand, the Student Body Vice President. Connell alone may be more prepared for SBP than Errico, but Errico and her running mate Meredith Spence Beaulieu together make one of the strongest tickets for SBP and SBVP from recent memory. Spence Beaulieu would be a key to the success of Errico’s administration.
 
-Anybody watching the first half of the Student Government Debate last night hosted by Student Media will likely admit to being left with a strong impression of Spence Beaulieu. She happened to sit in the middle of the other two candidates who attended, and it quickly became apparent that she indeed belonged at center stage. Spence Beaulieu is a diplomatic and effective speaker, which would be key to her success as Student Body Vice President. 
+Anybody watching the first half of the Student Government Debate Tuesday night hosted by Student Media will likely admit to being left with a strong impression of Spence Beaulieu. She happened to sit in the middle of the other two candidates who attended, and it quickly became apparent that she indeed belonged at center stage. Spence Beaulieu is a diplomatic and effective speaker, which would be key to her success as Student Body Vice President. 
 
 But don’t just rely on a character judgement from one event sway you. Spence Beaulieu is a PhD student in entomology (that’s the insects one), entering her fifth year in the program and her ninth at NC State; she previously attended NC State for her undergraduate degree, and was heavily involved with research. She has experience and familiarity with NC State like no other individual candidate has this year.
 
