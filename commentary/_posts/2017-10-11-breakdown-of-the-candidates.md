@@ -10,9 +10,8 @@ jess-and-meredith:
     max-width: "600px"
 alberto-and-zach:
     path: https://s3.amazonaws.com/praeci-assets/alberto-and-zach.png
-    credit: "Photo used with permission of Jess + Meredith 2018"
+    credit: "Photo used with permission of Vote Alberto & Zach"
     max-width: "600px"
-    # {% include inline-img.html img=page.alberto-and-zach %}
 mia-and-gabby:
     path: https://s3.amazonaws.com/praeci-assets/mia-and-gabby.jpg
     credit: "Photo used with permission of Mia & Gabby 2018"
@@ -33,9 +32,11 @@ Errico and Connell each emanate an air of professionalism, and for good reason. 
 
 ## Alberto & Zach
 
+{% include inline-img.html img=page.alberto-and-zach %}
+
 Alberto Quiroga is running for SBP again this year after a campaign that fell flat last time. His campaign, from a field of four, received less than 18 percent of the vote in last year’s election, despite (or perhaps because of) Technician’s endorsement of his ticket.
 
-Zach Lewis is his running mate and a third year with experience in Student Government and Intra-Fraternity Council. Lewis’ connections in Fraternity and Sorority Life may prove integral to success as such connections have in years past for other candidates.
+Zach Lewis is his running mate and a third year with experience in Student Government and Interfraternity Council. Lewis’ connections in Fraternity and Sorority Life may prove integral to success as such connections have in years past for other candidates.
 
 However, a perusal of Quiroga’s and Lewis’ platform reveals a lack of nuance and pragmatism that would be required of them to effect change from SG’s executive branch. As Spence Beaulieu pointed out during Tuesday night’s debate, Quiroga’s proposal to extend childcare services to graduate students is fraught with pitfalls. Their platform is indicates an oversight of the complicated nature underlying the problems they hope to solve.
 
