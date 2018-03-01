@@ -1,5 +1,7 @@
 ---
 title: "Quiroga should drop out of the race after last night's comments"
+social-image:
+    path: https://s3.amazonaws.com/praeci-assets/alberto-and-zach.png
 thumb:
     path: https://s3.amazonaws.com/praeci-assets/alberto-and-zach.png
 excerpt: "Marriage is not a condition of a woman's ability to lead."
