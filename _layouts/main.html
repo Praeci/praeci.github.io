@@ -6,7 +6,7 @@ layout: default
   <header>
     <div class="masthead">
       <div class="cover-site-image">
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.logo %}{{site.logo}}{% endif %}" alt="{{site.title}}"></a>
+        <a href="{{site.baseurl}}/"><img src="{{ site.logo.path | absolute_url }}" alt="{{site.title}}"></a>
       </div>
       <div class="site-title">{{site.title}}</div>
       <p class="pronounciation">{{site.pronounciation}}</p>

@@ -1,7 +1,8 @@
 title: Praeci
 pronounciation: "pray &middot; see"
 maxim: covering NC State and Raleigh
-logo: "Web Logo.png"
+logo:
+    path: "/assets/img/Web Logo.png"
 prod_url: http://praeci.com
 
 timezone: America/New_York
@@ -25,6 +26,9 @@ twitter_link: https://twitter.com/PraeciNews
 twitter_handle: "PraeciNews"
 facebook_link: https://www.facebook.com/Praeci/
 donation_link: https://www.paypal.me/CarterPape
+
+cover-photo:
+    path: "/assets/img/Web cover.png"
 
 podcast:
     title: "The Praeci Podcast"

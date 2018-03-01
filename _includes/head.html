@@ -21,8 +21,10 @@
 	
 	{% if page.social-image %}
 	    {% assign social-image = page.social-image %}
-	{% else %}
+	{% elsif page.img %}
 	    {% assign social-image = page.img %}
+	{% else %}
+	    {% assign social-image = site.cover-photo %}
 	{% endif %}
     
     {% include analytics-head.html %}
