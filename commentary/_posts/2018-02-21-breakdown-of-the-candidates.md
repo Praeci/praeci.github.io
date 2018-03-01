@@ -7,20 +7,19 @@ thumb:
 jess-and-meredith:
     path: https://s3.amazonaws.com/praeci-assets/jess-and-meredith.png
     credit: "Photo used with permission of Jess + Meredith 2018"
-    max-height: "300px"
+    max-width: "500px"
 alberto-and-zach:
     path: https://s3.amazonaws.com/praeci-assets/alberto-and-zach.png
     credit: "Photo used with permission of Vote Alberto & Zach"
-    max-height: "350px"
+    max-width: "400px"
 mia-and-gabby:
     path: https://s3.amazonaws.com/praeci-assets/mia-and-gabby.jpg
     credit: "Photo used with permission of Mia & Gabby 2018"
-    max-height: "300px"
+    max-width: "500px"
 taylor-and-cat:
-    path: https://s3.amazonaws.com/praeci-assets/taylor-and-cat.jpg
-    credit: "Photo used with permission of Taylor and Cat for NCSU Student Body President and VP"
-    max-height: "300px"
-    # {% include inline-img.html img=page.taylor-and-cat %}
+    path: https://s3.amazonaws.com/praeci-assets/just-taylor.jpg
+    credit: "Photo used with permission of Technician"
+    max-width: "500px"
 excerpt: "Balanced and thoroughly researched commentary on the 2018 NC State Student Body President campaigns"
 date: 2018-02-21 17:29:00 -0500
 tags: [Student Government]
@@ -57,6 +56,8 @@ Zach Lewis is his running mate and a third year with experience in Student Gover
 However, a perusal of Quiroga’s and Lewis’ platform reveals a lack of nuance and pragmatism that would be required of them to effect change from SG’s executive branch. As Spence Beaulieu pointed out during Tuesday night’s debate, Quiroga’s proposal to extend childcare services to graduate students is fraught with pitfalls. Their platform indicates an oversight of the complicated nature underlying the problems they hope to solve.
 
 ## Taylor and Cat
+
+{% include inline-img.html img=page.taylor-and-cat %}
 
 Taylor Pulliam comes into this race on an appeal to the SG Board of Elections and is as much of an outsider as this race has ever seen. He is the president of Grains of Time, and neither he or his running mate Cat Duble have any experience in Student Government.
 

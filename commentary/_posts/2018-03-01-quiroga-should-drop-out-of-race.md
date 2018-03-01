@@ -1,9 +1,10 @@
 ---
 title: "Quiroga should drop out of the race after last night's comments"
-social-image:
-    path: https://s3.amazonaws.com/praeci-assets/alberto-and-zach.png
-thumb:
-    path: https://s3.amazonaws.com/praeci-assets/alberto-and-zach.png
+img:
+    path: "https://s3.amazonaws.com/praeci-assets/jess-and-alberto.jpg"
+    credit: "Photo by Nick Faulkner, used with permission of Technician"
+    caption: "Alberto Quiroga addresses a question during the runoff debate Wednesday night as Jess Errico looks on."
+    max-width: "500px"
 excerpt: "Marriage is not a condition of a woman's ability to lead."
 date: 2018-03-01 04:44:00 -0500
 tags: [Student Government]
@@ -85,10 +86,10 @@ Marriage is a transformative experience, but if anything, it adds to Errico's pe
 
 ## Conclusion
 
-Unless his constituents believe that the misogynistic comment about the marital status of Errico and the marital status of Spence Beaulieu is an acceptable way to publicly engage two people, Alberto Quiroga has an obligation to the student body to capitulate in the race. A candidate who makes the kinds of comments that he did Wednesday night should not be the representative of NC State's student body.
+Unless his constituents believe that the misogynistic comment about marital status is an acceptable way to publicly engage two people, Alberto Quiroga has an obligation to the student body to capitulate in the race. A candidate who makes the kinds of comments that he did Wednesday night should not be the representative of NC State's student body.
 
 Quiroga has an obligation to apologize publicly to both Errico and Spence Beaulieu and make a concerted effort to identify the flaws in what he said and did.
 
 Unless they stand by them, each member of his campaign team also has an obligation to distance themselves from Quiroga's comments.
 
-Voting in the runoff election for Student Body President and Vice President opens at 8 PM.
+Voting in the runoff election for Student Body President and Vice President [is open](http://getinvolved.ncsu.edu) Thursday 8 AM to 8 PM.
