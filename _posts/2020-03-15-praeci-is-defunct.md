@@ -7,7 +7,7 @@ I made Praeci [in 2017](/coming-soon-praeci-news.html) during my penultimate sem
 
 Praeci is, however, defunct.
 
-Because I feel transparency is vital, I have not edited or removed any of the content posted here, even though I now think that some of it, in retrospect, is regrettable. Really, it's just [the](/commentary/breakdown-of-the-candidates) two [articles](/commentary/quiroga-should-drop-out-of-race) that broke into opinion rather than [sticking to reporting](/news/willis-impeachment-overview) but were not amply distinguished as opinion.
+Because I feel transparency is vital, I have not edited or removed any of the content posted here, even though I think that some of it, in retrospect, is regrettable. Really, it's just [the](/commentary/breakdown-of-the-candidates) two [articles](/commentary/quiroga-should-drop-out-of-race) that broke into opinion rather than [sticking to reporting](/news/willis-impeachment-overview) but were not amply distinguished as opinion.
 
 You can verify that I haven't meaningfully changed anything since it was published; check [the commit history](https://github.com/Praeci/praeci.github.io/commits/master) on GitHub.
 
